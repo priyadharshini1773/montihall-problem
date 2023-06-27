@@ -1,1 +1,1 @@
-# montihall-problem
+# monty hall problem
